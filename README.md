@@ -1,4 +1,6 @@
 # Проекты в рамках курса [Яндекс.Практикум «Специалист по Data Science»](https://praktikum.yandex.ru/data-scientist)
+![image](https://github.com/eytelar/ds_training_projects/assets/67976513/ec94f545-e466-4585-89d1-57c9dd49438c)
+
 
 | №  | Проект | Навыки и инструменты |
 |:-: | :------------ | :------------------- |
