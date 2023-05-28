@@ -1,4 +1,4 @@
-# Проекты в рамках курса [Яндекс.Практикум: Data Scientist](https://praktikum.yandex.ru/data-scientist)
+# Проекты в рамках курса [Яндекс.Практикум «Специалист по Data Science»](https://praktikum.yandex.ru/data-scientist)
 
 | №  | Проект | Навыки и инструменты |
 |:-: | :------------ | :------------------- |
