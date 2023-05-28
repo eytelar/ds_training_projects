@@ -8,7 +8,7 @@
 | 4  | [Исследование рынка игр - планирование рекламных кампаний](/project_04) | `scatter_matrix`, `scipy`, `seaborn`, `matplotlib`, `numpy`, `pandas` |
 | 5  | [Рекомендация тарифов](/project_05) | `кросс-валидация`, `pandas` |
 | 6  | [Отток клиентов – прогнозирование оттока клиентов](/project_06) | `работа с дисбалансом`, `shuffle`, `seaborn`, `matplotlib`, `numpy`, `pandas` |
-| 7  | [Выбор локации для скважины](/project_07) | `scipy`, `seaborn`, `matplotlib`, `numpy`, `pandas` |
+| 7  | [Выбор локации для скважины](/project_07) | `bootstrap`, `scipy`, `seaborn`, `matplotlib`, `numpy`, `pandas` |
 | 8  | [Восстановление золота из руды – предсказание коэффициента восстановления золота](/project_08) | `make_pipeline`, `sklearn`, `seaborn`, `matplotlib`, `numpy`, `pandas` |
 | 9  | [Определение стоимости автомобилей](/project_09) | `градиентный бустинг`, `sklearn`, `time`, `pandas` |
 | 10 | [Прогнозирование заказов такси на следующий час](/project_10) | `градиентный бустинг`, `временные ряды`, `sklearn`, `matplotlib`, `pandas` |
